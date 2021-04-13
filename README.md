@@ -5,7 +5,7 @@ PlatformIO Bare Metal ATtiny85 Blink Example
 Useful for learning how to program AVR chips with no bootloader using PlatformIO.
 
 ![PCB](https://jfenwick.github.io/images/attiny85-blink-pcb.jpg)<br>
-This PCB should give an idea of how to hookup the programmer, IC, 1K resistor and LED.
+This PCB image should give an idea of how to hookup the programmer, IC, 1K resistor and LED.
 
 The [PCB](https://github.com/jfenwick/attiny85-blink-pcb) that can be downloaded here. Easy to program with USBTinyISP or some other clone.
 
